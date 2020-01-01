@@ -1,0 +1,10 @@
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\bin\Debug\ricardoNewYearAlarm.exe.config
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\bin\Debug\ricardoNewYearAlarm.exe
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\bin\Debug\ricardoNewYearAlarm.pdb
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.csprojAssemblyReference.cache
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.Properties.Resources.resources
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.csproj.GenerateResource.cache
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.csproj.CoreCompileInputs.cache
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.exe
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.pdb
+C:\Users\wesli\source\repos\ricardoNewYearAlarm\ricardoNewYearAlarm\obj\Debug\ricardoNewYearAlarm.NewYearAlarm.resources
